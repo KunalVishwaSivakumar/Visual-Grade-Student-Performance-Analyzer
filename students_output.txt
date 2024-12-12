@@ -1,0 +1,6 @@
+Kun: Grades: 90.0,85.0,99.0, Average: 91.33, Grade Level: A
+Siv: Grades: 85.0,70.0,90.0, Average: 81.67, Grade Level: B
+Ana: Grades: 99.0,99.2, Average: 99.10, Grade Level: A
+H: Grades: 85.0,89.0,95.0, Average: 89.67, Grade Level: B
+Kri: Grades: 85.0,89.0,55.0, Average: 76.33, Grade Level: C
+Kumar: Grades: 85.0, Average: 85.00, Grade Level: B
